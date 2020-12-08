@@ -32,9 +32,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/yudwJYv.gif' width="600" /> alt='Video Walkthrough' />
+<img src='http://i.imgur.com/yudwJYv.gif' width="600" />
 
-GIF created with [LiceCap](http://i.imgur.com/yudwJYv.gifv).
+GIF created with [LiceCap](http://i.imgur.com/yudwJYv.gif).
 
 ## Project Analysis
 
